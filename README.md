@@ -11,10 +11,10 @@ My journey started with web development, during which I gained experience with R
 <table>
   <tr>
     <td>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyhanturkkal&show_icons=true&locale=en&layout=compact" alt="reyhanturkkal" height="195" /></p>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reyhanturkkal&show_icons=true&locale=en&layout=compact" alt="reyhanturkkal" height="200" /></p>
     </td>
     <td>
-      <p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reyhanturkkal&show_icons=true&locale=en" alt="reyhanturkkal" height="195" /></p>
+      <p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api?username=reyhanturkkal&show_icons=true&locale=en" alt="reyhanturkkal" height="200" /></p>
     </td>
   </tr>
 </table>
